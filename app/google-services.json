@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583716287547",
+    "firebase_url": "https://parra-2703a.firebaseio.com",
+    "project_id": "parra-2703a",
+    "storage_bucket": "parra-2703a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583716287547:android:5a7ed7dfc9e460caddd81e",
+        "android_client_info": {
+          "package_name": "com.example.parra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583716287547-h0n9ptkrrt3ru82mkjpclfkb05uvsdbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parra",
+            "certificate_hash": "f3076fddafac7d836c31fc29cd73b9f98d10677b"
+          }
+        },
+        {
+          "client_id": "583716287547-9gvcqgarq387duqrqvqa7a191rh2n2al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0K2L83Gj99lw-N0JKOZpScU1VUKdSAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583716287547-9gvcqgarq387duqrqvqa7a191rh2n2al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
